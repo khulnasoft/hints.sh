@@ -4,7 +4,7 @@ import type { SheetPage } from '../page'
 
 export function getSEOPropsForHome() {
   const t = {
-    title: 'Devhints — TL;DR for developer documentation',
+    title: 'Hints.sh — TL;DR for developer documentation',
     description: 'A ridiculous collection of web development cheatsheets'
   }
   const url = site.url
