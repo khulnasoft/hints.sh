@@ -10,10 +10,10 @@ See `.ruby-version` and `.node-version` for supported versions.
 
 This repository supports contribution using [gitpod](https://gitpod.io) which is online IDE using [Theia](https://github.com/eclipse-theia/theia).
 
-To open-up the environment simple natigate on https://gitpod.io/#https://github.com/khulnasoft/cheatsheets
+To open-up the environment simple natigate on https://gitpod.io/#https://github.com/khulnasoft/hints.sh
 
 Or using a button:<br>
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/khulnasoft/cheatsheets)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/khulnasoft/hints.sh)
 
 ### Preview built website
 

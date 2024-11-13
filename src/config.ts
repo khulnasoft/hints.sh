@@ -20,12 +20,12 @@ export const googleAnalytics = {
 } as const
 
 export const github = {
-  repositoryUrl: 'https://github.com/khulnasoft/cheatsheets',
+  repositoryUrl: 'https://github.com/khulnasoft/hints.sh',
   branch: 'master'
 } as const
 
 export const urls = {
-  newCheatsheetUrl: 'https://github.com/khulnasoft/cheatsheets/issues/907'
+  newCheatsheetUrl: 'https://github.com/khulnasoft/hints.sh/issues/907'
 } as const
 
 export const carbon = {
